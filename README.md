@@ -7,7 +7,7 @@ Il portait sur les développement d'une API de suggestion de tags à destination
 
 Il était demandé de réaliser:
 
-Le fitrage des données issue de l'API stackexchange explorer
+* Le fitrage des données issue de l'API stackexchange explorer
 Réaliser le pétraitement des documents
 Comparer des approches suppervisées (KNN, SVM, Random Forest, Gradient Boosting) et non supervisées (LDA) afin de prédire des tags
 Réaliser les fonctions et classes nécessaire à l'implémentation de l'API.
