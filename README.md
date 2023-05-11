@@ -1,5 +1,5 @@
 # OPC_ML_P5
-tags extraction  
+**tags extraction**  
 
 ## Introduction  
 Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingénieur machine learning proposé par Openclassrooms (projet n°5)  
