@@ -2,16 +2,15 @@
 tags extraction  
 
 Introduction  
-Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingénieur machine learning proposé par Openclassrooms.  
+Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingénieur machine learning proposé par Openclassrooms (projet n°5)  
 
-Il portait sur les développement d'une API de suggestion de tags à destination des utilisateur de Stack Overflow. Il a étét l'occasion de mettre en oeuvre des méthodes de NLP / TAL. Ce repository porte sur l'analyse exploratoire et l'entrainement de modèles supervisés et non supervisés afin de répondre au besoin. Un second repository contient le code de l'API.  
+Développer une API de suggestion de tags à destination des utilisateurs de Stack Overflow   
 
 Il était demandé de réaliser:
-
 * Le fitrage des données issue de l'API stackexchange explorer
-* Réaliser le pétraitement des documents
-* Comparer des approches suppervisées (KNN, SVM, Random Forest, Gradient Boosting) et non supervisées (LDA) afin de prédire des tags
-* Réaliser les fonctions et classes nécessaire à l'implémentation de l'API.
+* Le prétraitement des documents (retrait des balises html, nettoyage du texte, tokenisation, POS tagging, lemmatisation et filtrage des documents vides)
+* Comparer des approches suppervisées (KNN, SVM, Random Forest, Gradient Boosting, tf_idf et word2vec) et non supervisées (LDA) afin de prédire des tags
+* Réaliser les fonctions et classes nécessaires à l'implémentation de l'API.
 * Développer une API et la mettre en production.  
 
 Contenu du repositiry:
