@@ -18,6 +18,12 @@ Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingé
 * Un notebook de pré-traitement des documents et d'entraînement des modèles supervisés et non supervisés
 * Une présentation sous forme de diapositives
 
-## API
+## Github API
+https://github.com/YCS127/OPC_API2
+
+## API link
+https://ycs127-opc-api2-app-p5-18s8dz.streamlit.app/
+
+
 
 
