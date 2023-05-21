@@ -16,5 +16,8 @@ Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingé
 ## Contenu du repositiry:
 * Un notebook d'exploration des données
 * Un notebook de pré-traitement des documents et d'entraînement des modèles supervisés et non supervisés
-* Un rapport de synthèse des travaux réalisés
 * Une présentation sous forme de diapositives
+
+## API
+
+
