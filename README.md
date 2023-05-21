@@ -9,7 +9,7 @@ Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingé
 ## Mission
 * Fitrage des données issues de l'API stackexchange explorer
 * Pré-traitement des documents (retrait des balises html, nettoyage du texte, tokenisation, POS tagging, lemmatisation, filtrage des documents vides et encodage des tags)
-* Comparaison des approches suppervisées (KNN, SVM, Random Forest, Gradient Boosting, tf_idf et word2vec) et non supervisées (LDA) afin de prédire des tags
+* Comparaison des approches suppervisées (KNN, SVM, Random Forest, Gradient Boosting, Tf_idf, Word2vec, Bert et Use) et non supervisées (LDA) afin de prédire des tags
 * Création de fonctions et classes nécessaires à l'implémentation de l'API
 * Développement d'une API et la mettre en production   
 
