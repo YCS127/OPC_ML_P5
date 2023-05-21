@@ -16,8 +16,7 @@ Le projet de ce notebook a été réalisé dans le cadre de la formation d'ingé
 ## Contenu du repositiry:
 * Un notebook d'exploration des données
 * Un notebook de pré-traitement des documents et d'entraînement des modèles supervisés et non supervisés
-* Une présentation sous forme de diapositives
-
+* Une présentation (PDF)
 ## Github API
 https://github.com/YCS127/OPC_API2
 
